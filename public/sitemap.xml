@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/notes/setup/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/setup/</loc>
   </url><url>
-    <loc>http://example.org/notes/editing/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/editing/</loc>
   </url><url>
-    <loc>http://example.org/notes/obsidian/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/obsidian/</loc>
   </url><url>
-    <loc>http://example.org/notes/preview-changes/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/preview-changes/</loc>
   </url><url>
-    <loc>http://example.org/notes/hosting/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/hosting/</loc>
   </url><url>
-    <loc>http://example.org/templates/post/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/templates/post/</loc>
   </url><url>
-    <loc>http://example.org/notes/callouts/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/callouts/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/notes/cjk-&#43;-latex-support-%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/cjk-&#43;-latex-support-%E6%B5%8B%E8%AF%95/</loc>
   </url><url>
-    <loc>http://example.org/notes/config/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/config/</loc>
   </url><url>
-    <loc>http://example.org/notes/custom-domain/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/custom-domain/</loc>
   </url><url>
-    <loc>http://example.org/notes/ignore-notes/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/ignore-notes/</loc>
   </url><url>
-    <loc>http://example.org/notes/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/</loc>
   </url><url>
-    <loc>http://example.org/private/private-note/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/private/private-note/</loc>
   </url><url>
-    <loc>http://example.org/private/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/private/</loc>
   </url><url>
-    <loc>http://example.org/notes/philosophy/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/philosophy/</loc>
   </url><url>
-    <loc>http://example.org/notes/search/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/search/</loc>
   </url><url>
-    <loc>http://example.org/tags/setup/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/tags/setup/</loc>
   </url><url>
-    <loc>http://example.org/notes/showcase/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/showcase/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/tags/</loc>
   </url><url>
-    <loc>http://example.org/templates/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/templates/</loc>
   </url><url>
-    <loc>http://example.org/notes/troubleshooting/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/troubleshooting/</loc>
   </url><url>
-    <loc>http://example.org/notes/updating/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/notes/updating/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://quartz-themes-demo.vercel.app/</loc>
   </url>
 </urlset>

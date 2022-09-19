@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Privates on My New Hugo Site</title>
-    <link>http://example.org/private/</link>
-    <description>Recent content in Privates on My New Hugo Site</description>
+    <title>Privates on Quartz as Hugo theme demo</title>
+    <link>https://quartz-themes-demo.vercel.app/private/</link>
+    <description>Recent content in Privates on Quartz as Hugo theme demo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/private/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://quartz-themes-demo.vercel.app/private/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Private Stuff</title>
-      <link>http://example.org/private/private-note/</link>
+      <link>https://quartz-themes-demo.vercel.app/private/private-note/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/private/private-note/</guid>
+      <guid>https://quartz-themes-demo.vercel.app/private/private-note/</guid>
       <description>This page doesn&amp;rsquo;t get published!</description>
     </item>
     
