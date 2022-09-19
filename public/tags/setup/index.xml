@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>setup on My New Hugo Site</title>
+    <link>http://example.org/tags/setup/</link>
+    <description>Recent content in setup on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup</title>
+      <link>http://example.org/notes/setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/notes/setup/</guid>
+      <description>Making your own Quartz Setting up Quartz requires a basic understanding of git. If you are unfamiliar, this resource is a great place to start!
+Forking A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+Navigate to the GitHub repository for the Quartz project:
+📁 Quartz Repository
+Then, Fork the repository into your own GitHub account. If you don&amp;rsquo;t have an account, you can make on for free here.</description>
+    </item>
+    
+    <item>
+      <title>Editing Content in Quartz</title>
+      <link>http://example.org/notes/editing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/notes/editing/</guid>
+      <description>Editing Quartz runs on top of Hugo so all notes are written in Markdown.
+Folder Structure Here&amp;rsquo;s a rough overview of what&amp;rsquo;s what.
+All content in your garden can found in the /content folder. To make edits, you can open any of the files and make changes directly and save it. You can organize content into any folder you&amp;rsquo;d like.
+To edit the main home page, open /content/_index.md.
+To create a link between notes in your garden, just create a normal link using Markdown pointing to the document in question.</description>
+    </item>
+    
+    <item>
+      <title>Obsidian Vault Integration</title>
+      <link>http://example.org/notes/obsidian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/notes/obsidian/</guid>
+      <description>Setup Obsidian is the preferred way to use Quartz. You can either create a new Obsidian Vault or link one that your already have.
+New Vault If you don&amp;rsquo;t have an existing Vault, download Obsidian and create a new Vault in the /content folder that you created and cloned during the setup step.
+Linking an existing Vault The easiest way to use an existing Vault is to copy all of your files (directory and hierarchies intact) into the /content folder.</description>
+    </item>
+    
+    <item>
+      <title>Preview Changes</title>
+      <link>http://example.org/notes/preview-changes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/notes/preview-changes/</guid>
+      <description>If you&amp;rsquo;d like to preview what your Quartz site looks like before deploying it to the internet, here&amp;rsquo;s exactly how to do that!
+Note that both of these steps need to be completed.
+Install hugo-obsidian This step will generate the list of backlinks for Hugo to parse. Ensure you have Go (&amp;gt;= 1.16) installed.
+# Install and link `hugo-obsidian` locally go install github.com/jackyzha0/hugo-obsidian@latest If you are running into an error saying that command not found: hugo-obsidian, make sure you set your GOPATH correctly!</description>
+    </item>
+    
+    <item>
+      <title>Deploying Quartz to the Web</title>
+      <link>http://example.org/notes/hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/notes/hosting/</guid>
+      <description>Hosting on GitHub Pages Quartz is designed to be effortless to deploy. If you forked and cloned Quartz directly from the repository, everything should already be good to go! Follow the steps below.
+Enable GitHub Actions By default, GitHub disables workflows from running automatically on Forked Repostories. Head to the &amp;lsquo;Actions&amp;rsquo; tab of your forked repository and Enable Workflows to setup deploying your Quartz site!
+Enable GitHub Actions
+Enable GitHub Pages Head to the &amp;lsquo;Settings&amp;rsquo; tab of your forked repository and go to the &amp;lsquo;Pages&amp;rsquo; tab.</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://example.org/notes/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/notes/config/</guid>
+      <description>Configuration Quartz is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you&amp;rsquo;d like to get.
+The majority of configuration can be found under data/config.yaml. An annotated example configuration is shown below.
+# The name to display in the footer name: Jacky Zhao # whether to globally show the table of contents on each page # this can be turned off on a per-page basis by adding this to the # front-matter of that note enableToc: true # whether to by-default open or close the table of contents on each page openToc: false # whether to display on-hover link preview cards enableLinkPreview: true # whether to render titles for code blocks enableCodeBlockTitle: true # whether to render copy buttons for code blocks enableCodeBlockCopy: true # whether to render callouts enableCallouts: true # whether to try to process Latex enableLatex: true # whether to enable single-page-app style rendering # this prevents flashes of unstyled content and improves # smoothness of Quartz.</description>
+    </item>
+    
+  </channel>
+</rss>
