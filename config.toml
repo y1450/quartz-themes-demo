@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+#baseURL = 'http://example.org/'
+baseURL = 'https://quartz-themes-demo.vercel.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Quartz as Hugo theme demo'
 theme = 'quartz'
