@@ -22,9 +22,13 @@ This setup makes following changes to  [Quartz](https://github.com/jackyzha0/qua
   mkdir assets
   cd assets 
   mkdir indices
-  cd ../../
+  cd ../
   cp -r themes/quartz/content ./
   ln -s themes/quartz/Makefile ./
+  echo "theme = 'quartz'" >> config.toml
+  git add .
+  git commit -m "inital commit"
+  make
 ```
 ```
   # to pull changes just go to theme directory and pull changes
